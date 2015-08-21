@@ -7,3 +7,7 @@ Database name: bthiban_migration
 ## Execute
 - move in to the main directory
 - c:\wamp\www\codeigniter-migration>php index.php migrate
+
+## Notes
+- 001_add_users.php:  for rapid development, you can generate the sql code from phpmyadmin or sqlyog or etc
+- 002_add_contact.php: this is the framework oriented way, as well as it will take some time for sure.
